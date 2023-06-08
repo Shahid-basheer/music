@@ -1,0 +1,5 @@
+node_modules
+package-lock.json
+.env
+music-player/node_modules
+music-player/package-lock.json
